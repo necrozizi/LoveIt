@@ -70,6 +70,7 @@
 .archive-item-date {
   width: 4em;
   text-align: right;
+  white-space: nowrap;
   color: $global-font-secondary-color;
 
   [theme=dark] & {

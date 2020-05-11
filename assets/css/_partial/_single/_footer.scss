@@ -64,6 +64,7 @@
   }
 
   .post-nav {
+    overflow: hidden;
     &::before,
     &::after {
       content: ' ';
